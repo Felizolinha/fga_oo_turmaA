@@ -21,4 +21,4 @@ dados de figura geométrica.
 Diagrama de classes:  
 ![Diagrama de Classes][diagramaDeClasses] 
 
-[diagramaDeClasses]:diagClasseExercicio1.png 
+[diagramaDeClasses]: ./diagClasseExercicio1.png 
