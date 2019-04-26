@@ -1,3 +1,5 @@
+package secaoII.exercicio_1;
+
 import javax.swing.JOptionPane;
 
 public class Principal {
