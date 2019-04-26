@@ -19,4 +19,4 @@ dados de figura geométrica.
 *Resolução parcial*:  
 
 Diagrama de classes:  
-![Diagrama de Classes](diagramaDeClasses) 
+![Diagrama de Classes](diagramaDeClasses.png) 
