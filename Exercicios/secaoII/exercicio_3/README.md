@@ -8,7 +8,7 @@ Progressões aritméticas e geométricas são sequências de n números reais in
 
 *Resolução parcial*:
 
-Diagrama de classes:
+Diagrama de classes:  
 ![Diagrama de Classes](diagClassesExercicio3.png "Diagrama de Classes")
 
 Este diagrama de classes poderia ser aprimorado utilizando conceitos mais avançados de Orientação a Objetos, como o polimorfismo.
